@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Analysis**
 
-- 📫 How to reach me **mirzaahsan02938@gmail.com**
+- 📫 How to reach me **mirzaahsan143786@gmail.com**
 
 - ⚡ Fun fact **My friends call me jack of all trades in computer science.**
 
