@@ -11,7 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/mirzaahsan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mirzaahsan02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mirzaahsan0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirzaahsan0712" height="30" width="40" /></a>
+<a href="https://kaggle.com/mirzaahsn143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mirzaahsn143" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mirzaahsan143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mirzaahsan143" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
