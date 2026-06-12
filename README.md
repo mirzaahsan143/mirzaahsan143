@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Mirza%20Muhammad%20Ahsan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=18)](https://github.com/mirzaahsan143)
+<a href="https://github.com/mirzaahsan143">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Mirza%20Muhammad%20Ahsan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=18" alt="Mirza Muhammad Ahsan Banner" width="100%" />
+</a>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions;Building+End-to-End+ML+Pipelines;Crafting+Insightful+Data+Stories;Python+%7C+SQL+%7C+Tableau+%7C+TensorFlow" alt="Typing SVG" />
