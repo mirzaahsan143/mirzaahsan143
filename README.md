@@ -277,10 +277,9 @@ Developed and validated machine learning models for classification and predictio
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/mirzaahsan143/mirzaahsan143/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/mirzaahsan143/mirzaahsan143/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
