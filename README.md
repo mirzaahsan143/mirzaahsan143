@@ -258,7 +258,7 @@ Developed and validated machine learning models for classification and predictio
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mirzaahsan143&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8)
+<img src="https://github-profile-trophy.vercel.app/?username=mirzaahsan143&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
